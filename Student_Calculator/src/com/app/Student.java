@@ -23,4 +23,8 @@ public class Student {
 		System.out.println("hey this is the division branch from my project");
 		
 	}
+	public void demo()
+	{
+		System.out.println("Hii");
+	}
 }
