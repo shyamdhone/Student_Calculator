@@ -26,6 +26,5 @@ public class Student {
 	public void demo()
 	{
 		System.out.println("Hii");
-		System.out.println("Hello");
 	}
 }
