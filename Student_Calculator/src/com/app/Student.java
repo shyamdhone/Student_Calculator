@@ -18,4 +18,9 @@ public class Student {
 		System.out.println("hey this is the multiplication");
 		
 	}
+	
+	public void div() {
+		System.out.println("hey this is the division branch from my project");
+		
+	}
 }
